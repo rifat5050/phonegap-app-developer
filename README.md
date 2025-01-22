@@ -185,5 +185,5 @@ See the [CONTRIBUTING.md][6] file for details.
 [travis-ci-img]: https://travis-ci.org/phonegap/phonegap-app-developer.svg?branch=master
 [travis-ci-url]: http://travis-ci.org/phonegap/phonegap-app-developer
 [bithound-img]: https://www.bithound.io/github/phonegap/phonegap-app-developer/badges/score.svg
-[bithound-url]: https://www.bithound.io/github/phonegap/phonegap-app-developer
+[bithound-url]: https://www.bithound.io/github/phonegap/phonegap-app-developer 
 
